@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1548831658 source:c:\users\asus republic gamer\documents\programacion\archivo3\archivo3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
